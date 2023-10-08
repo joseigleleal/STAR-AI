@@ -1,0 +1,1 @@
+const fineTune = await openai.fineTuning.jobs.create({ training_file: 'file-H5Ae956zWAkiD3zh2Z6ekkGk', model: 'gpt-3.5-turbo' })
